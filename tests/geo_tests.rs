@@ -8,7 +8,7 @@
 //  * Sign: sarzamin-20250611-bb54068aea85-106fe4c17097e8285daf4519f5be7327
 //
 // Tests for the sarzamin library
-
+#[allow(unused_imports)]
 use sarzamin::{self, Province};
 
 #[test]
