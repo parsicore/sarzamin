@@ -34,7 +34,7 @@ Add `sarzamin` to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-sarzamin = "0.1.0" # Replace with the latest version
+sarzamin = "1.0.0"
 ```
 
 Or use the command line:
@@ -153,7 +153,7 @@ Check the documentation or the `src/models.rs` file for the full details of each
 
 ## 📄 License
 
-**Apache License, Version 2.0** ([LICENSE-APACHE](LICENSE-APACHE) or http://www.apache.org/licenses/LICENSE-2.0)
+**Apache License, Version 2.0** ([LICENSE-APACHE](LICENSE) or http://www.apache.org/licenses/LICENSE-2.0)
 
 ```
 Version: 1.0.0
