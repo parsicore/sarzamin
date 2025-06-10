@@ -1,0 +1,17 @@
+[package]
+name = "sarzamin"
+version = "1.0.0"
+edition = "2021"
+authors = ["Parsicore Organization <...>", "Your Name <...>"]
+description = "Comprehensive geographical data library for Iran, including provinces, counties, and cities."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/parsicore/sarzamin"
+readme = "README.md"
+keywords = ["iran", "farsi", "persian", "geo", "province", "city"]
+categories = ["localization", "data-structures"]
+
+[dependencies]
+# Add these two lines
+serde = { version = "1.0", features = ["derive"] }
+once_cell = "1.19"
+serde_json = "1.0.140"
