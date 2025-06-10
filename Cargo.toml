@@ -11,7 +11,7 @@ license = "Apache-2.0"
 repository = "https://github.com/parsicore/sarzamin"
 documentation = "https://docs.rs/sarzamin/"
 readme = "README.md"
-keywords = ["iran", "farsi", "persian", "geo", "province", "city"]
+keywords = ["iran", "persian", "geo", "province", "city"]
 categories = ["localization", "data-structures"]
 
 [lib]
