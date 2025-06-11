@@ -4,7 +4,7 @@
 name = "sarzamin"
 version = "1.0.0"
 edition = "2021"
-authors = ["ParsiCore <Jalalvandi.Sina@gmail.com>"]
+authors = ["ParsiCore <parsicore.dev@gmail.com>"]
 homepage = "https://crates.io/crates/sarzamin"
 description = "Comprehensive geographical data library for Iran, including provinces, counties, and cities."
 license = "Apache-2.0"

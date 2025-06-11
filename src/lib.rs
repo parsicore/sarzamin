@@ -1,6 +1,6 @@
 // ~/src/lib.rs
 //
-//  * Copyright ParsiCore 2024-2025 <jalalvandi.sina@gmail.com>
+//  * Copyright ParsiCore 2024-2025 <parsicore.dev@gmail.com>
 //  * Package : sarzamin
 //  * License : Apache-2.0
 //  * Version : 1.0.0
